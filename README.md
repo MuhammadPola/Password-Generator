@@ -6,7 +6,7 @@ This password generator is randomly generates a password, with ensures strong se
 Users have options (Numbers, Upper case, Lower case, Symbols and password length).
 Password generator website provide information about Social Media account protection.
 
-*[link of Coronavirus Website](http://passwordgenerator2.cf/)*
+*[link of password generator Website](http://passwordgenerator2.cf/)*
 
 --- 
 
